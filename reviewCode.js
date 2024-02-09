@@ -156,7 +156,7 @@
                 src = 'https://m.media-amazon.com/images/I/61U+0CwjkrL.jpg';
                 urlToNavigate = lisingReviewUrl + listingUrl;
                 //urlToNavigate = listingUrl;
-                pText = 'Rate Us';
+                pText = 'Rate Uss';
             } else if (name.startsWith('email')) {
                 src = 'https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/1f/32/bd1f324b-6127-5373-7d27-8301d80de088/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp';
                 urlToNavigate = `mailto:${value}`;
